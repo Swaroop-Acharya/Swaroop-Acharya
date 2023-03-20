@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swaroopa802@gmail.com**
 
-- ⚡ Fun fact **I don't hate Java**
+- ⚡ Fun fact **I don't hate Java ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
