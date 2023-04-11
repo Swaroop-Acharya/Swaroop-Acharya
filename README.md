@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **React, Web Development, UI/UX**
 
+- ⚡ Fun fact **I don't hate Java ; )**
 - 📫To get in touch with me, please email me at **swaroopa802@gmail.com**
 
-- ⚡ Fun fact **I don't hate Java ; )**
 
 
 
