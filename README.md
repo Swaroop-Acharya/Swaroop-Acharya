@@ -29,7 +29,7 @@
 </p>
 
 <h3>Currently Working On:</h3>
-<a herf="https://www.google.com">Portfolio</a>  Portfolio site built using ReactJS and Tailwind CSS
+<a href="https://www.google.com">Portfolio</a>  Portfolio site built using ReactJS and Tailwind CSS
 
 
 <h3 align="left">Languages and Tools</h3>
