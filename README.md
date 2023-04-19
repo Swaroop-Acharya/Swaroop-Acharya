@@ -28,6 +28,8 @@
 <a href="https://www.leetcode.com/swaro_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swaro_op" height="30" width="40" /></a>
 </p>
 
+<h3>Currently Working On:</h3>
+- [**Portfolio**](https://) -  Portfolio site built using ReactJS and Tailwind CSS
 
 
 <h3 align="left">Languages and Tools</h3>
