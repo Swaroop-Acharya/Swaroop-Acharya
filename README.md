@@ -56,8 +56,8 @@
   
   
   <br/>
-  <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Swaroop-Acharya&theme=react" alt="Swaroop-Acharya"/></p>
+  <div >
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Swaroop-Acharya&theme=react" alt="Swaroop-Acharya"/></p>
   </div>
 <br/>
 
