@@ -8,12 +8,12 @@
 
 <h3>About me</h3>
 
-- 🌱 At the moment, I am aiming to improve my technical skills and develop web development skill.
+- 🌱 At the moment, Iam Learning core Java to achieve Full Stack Development.
 
 - 💬 Ask me about **React, Web Development, UI/UX**
-
-- ⚡ Fun fact **I don't hate Java ; )**
+  
 - 📫To get in touch with me, please email me at **swaroopa802@gmail.com**
+- ⚡ Fun fact **I don't hate Java ; )**
 
 
 
@@ -49,10 +49,7 @@
  
  </p>
 <h3> 📊 My Github Stats</h3>
-  <br/>
-    <a href="https://github.com/Swaroop-Acharya/github-readme-stats"><img alt="Swaroop Acharya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swaroop-Acharya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   <a href="https://github.com/Swaroop-Acharya/github-readme-stats"><img alt="Swaroop-Acharya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop-Acharya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <br/>
+
   
   
   <br/>
@@ -60,6 +57,10 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Swaroop-Acharya&theme=react" alt="Swaroop-Acharya"/></p>
   </div>
 <br/>
+  <br/>
+<!--     <a href="https://github.com/Swaroop-Acharya/github-readme-stats"><img alt="Swaroop Acharya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swaroop-Acharya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/Swaroop-Acharya/github-readme-stats"><img alt="Swaroop-Acharya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop-Acharya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 <h3>Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-acharya&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-acharya" /> </p>
