@@ -1,4 +1,3 @@
-<h3>Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-acharya&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-acharya" /> </p>
 <h1 align="center">Hello👋 I'm Swaroop, Web Developer</h1>
 <!-- <img align="right" alt="Coding" width="250" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"> -->
