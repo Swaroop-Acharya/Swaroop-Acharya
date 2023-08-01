@@ -11,8 +11,6 @@
 - ⚡ Fun fact **I don't hate Java ; )**
 
 
-
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/swaroop-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swaroop-acharya" height="30" width="40" /></a>
