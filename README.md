@@ -14,11 +14,10 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/swaroop-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="swaroop-acharya" height="30" width="40" /></a>
-<a href="https://twitter.com/swar0_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swar0_op" height="30" width="40" /></a>
+<a href="https://twitter.com/swaroopcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swar0_op" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swaroop-acharya-55b8b5223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroop-acharya-55b8b5223" height="30" width="40" /></a>
 <a href="https://instagram.com/_swar0_0p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_swar0_0p" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swarooplearns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swarooplearns" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swaro_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swaro_op" height="30" width="40" /></a>
 </p>
 
 <h3>Currently Working On</h3>
