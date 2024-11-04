@@ -4,9 +4,9 @@
 <h3>About me</h3>
 
 
-- 🌱 At the moment, Iam Learning core Java to achieve Full Stack Development.
+- 🌱 At the moment, Iam Learning Spring Boot.
 
-- 💬 Ask me about **React, Web Development, UI/UX**
+- 💬 Ask me about **React, Spring Boot, UI/UX**
   
 - 📫To get in touch with me, please email me at **swaroopa802@gmail.com**
 - ⚡ Fun fact **I don't hate Java ; )**
