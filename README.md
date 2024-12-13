@@ -23,7 +23,7 @@
 </p>
 
 <h3>Currently Working On</h3>
-<a href="https://github.com/Swaroop-Acharya/Portfolio">Portfolio</a>: Portfolio site built using ReactJS and Tailwind CSS
+Spring boot project 
 
 
 <h3 align="left">Languages and Tools</h3>
