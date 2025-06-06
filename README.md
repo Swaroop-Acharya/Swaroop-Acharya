@@ -42,24 +42,7 @@ Spring boot project
 <!--  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
  
  </p>
-<h3> 📊 My Github Stats</h3>
 
-  
-  
-  <br/>
-  <div >
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Swaroop-Acharya&theme=react" alt="Swaroop-Acharya"/></p>
-  </div>
-<br/>
-  <br/>
-<!--     <a href="https://github.com/Swaroop-Acharya/github-readme-stats"><img alt="Swaroop Acharya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swaroop-Acharya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <a href="https://github.com/Swaroop-Acharya/github-readme-stats"><img alt="Swaroop-Acharya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop-Acharya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<!-- <h3> 📊 My Leet Code Stats</h3>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SwarO_Op)(https://leetcard.jacoblin.cool/lapor?ext=heatmap)]
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SwarO_Op)](https://leetcard.jacoblin.cool/lapor?ext=heatmap) -->
 
 
 
