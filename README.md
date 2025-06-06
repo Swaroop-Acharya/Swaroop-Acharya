@@ -5,7 +5,7 @@
 
 Just a guy who loves to code, occasionally cries over his own code… and then fixes it (probably while crying).
 
-Trust me, I take memory management seriously.  
+Trust me, I take clean code seriously.  
 (Okay, maybe not *that* seriously.)
 
 #### Fun Facts  
