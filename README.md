@@ -9,10 +9,9 @@ Trust me, I take writing clean code seriously.
 (Okay, maybe not *that* seriously.)
 
 #### Fun Facts  
-* Currently breaking and fixing things as a Backend Dev at a fintech.  
-* Passionate about gaming, music, and art—basically everything that delays debugging.  
+* Backend Dev at a fintech.  
 * I use Arch, btw.  
-* And yes, I use NeoVim, btw. Because why not suffer in style?
+* And yes, I use NeoVim, btw.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swaroop-acharya&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-acharya" />
